@@ -179,20 +179,9 @@ main{
     border-radius: 5px;
 }
 
-.video_hover{
-    display: hidden;
-}
-
 .highlights_images{
     padding: 0 20px;
 }
-
-.highlights_images img{
-    width: 500px;
-    height: 375px;
-}
-
-
 
 .footer_container{
     display: flex;
